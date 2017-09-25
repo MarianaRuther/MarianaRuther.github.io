@@ -1,0 +1,248 @@
+body{
+	padding: 0;
+	margin:0;
+	width:400px;
+	/*heigth: 80px;*/
+	background-color:#000000;	
+	font-family: 'Asap Condensed', sans-serif;
+    font-size: 14px;
+}
+
+.left{
+	display: inline-block;
+	width: 400px;
+}
+
+.right{
+	display: inline-block;
+	width: 400px;
+}
+
+
+}
+.Mesquerda{
+	padding:0;
+	width: 350px;
+	margin: 4px;
+	/*heigth: 900px;*/
+	margin-left:auto;
+	margin-right:-680px;
+	
+}
+.img{
+	width:150px;
+	border-radius: 20%;
+	 
+}
+
+.skill{
+	padding:5px;
+	width:200px;
+	margin:3px;
+	font-family: 'Asap Condensed', sans-serif;
+	font-size:17px;
+	
+
+}
+.nskill{
+	padding: relative;
+	margin:40px;
+	height:4px;
+	right:4px;
+	font-size:18px;
+	font-family: 'Asap Condensed', sans-serif;
+	}
+
+.html {margin: 4px;width: 80%;background-color:#540D88;}
+.css {margin: 4px;width: 70%;background-color: #540D88;}
+.js {margin: 4px;width: 50%;background-color: #540D88;}
+.jq {margin: 4px;width: 50%;background-color: #540D88;}
+.ux {margin: 4px; width: 70%;background-color: #540D88;}
+.php {margin: 4px;width: 80%;background-color: #540D88;}
+.nodejs {margin: 4px;width: 70%;background-color: #540D88;}
+.mongodb {margin: 4px;width: 70%;background-color: #540D88;}
+.pl { margin: 4px; width: 90%;background-color: #540D88;}
+
+.container{
+
+padding:0;
+margin: 4px;
+font-family: 'Asap Condensed', sans-serif;
+font-size:15px;
+width: 380px;
+}
+
+.Mdireita{
+	padding:200px 50px 50px 200px;
+	width:812px;
+	margin-top:-885px;
+	/*heigth: 600px;*/
+	margin-left:200px;
+	margin-right:100px;
+	font-size:17px;
+	
+}
+
+
+
+#email{
+	float: left;
+	margin: -200px 0 0 0;
+}
+
+
+.Rdireita{
+	padding:200px 0 0 200px;
+	width:100px;
+	margin-top:-1000px;
+	/*heigth:600px;*/
+	margin-left:800px;
+	margin-right:100px;
+	font-size:20px;
+	
+}
+
+a:hover{
+    color: #540D88;
+}
+
+.header{
+    background-color: #000000;
+    text-align: center;
+    padding: 20px 0;
+    color: #FCFCFC;
+   
+}
+
+.header h2{
+	margin: 0;
+	font-size: 17px;
+}
+
+.header h1{
+    margin-bottom: 0;
+}
+
+
+a{
+    text-decoration: none;
+    color: inherit;  /*propriedade de herança; vai herdar a propriedade do pai*/
+}
+
+ul{
+    padding: 4px;
+}
+
+ul li{
+    list-style: none;
+}
+
+
+main{
+	width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+section{
+    display: flex;
+    border-bottom: 2px solid #540D88;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+section h3{
+    width: 200px;
+    font-size: 30px;
+    min-width: 250px;
+    margin-left: 30px;
+    margin-right: 50px;
+    text-align: left;
+}
+
+.t p{
+	margin-top: 31px;
+	margin-bottom:5px;
+	
+	
+	}
+
+
+/*
+.juntando h4, .juntando h5{
+    margin-top: 2px;
+    margin-bottom: 0;
+}*/
+
+h4{
+    margin-bottom: 0;
+}
+
+h5{
+    margin-top: 0;
+	margin-bottom: 0;
+	font-size: 15px;
+}
+
+
+footer{  /*mexer no rodapé/linhas do site */
+    text-align: center;
+    background-color: #000000;
+    color: #FBFBFB;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    display: block;
+}
+
+footer a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: #540D88;
+}
+
+
+.icon{
+	display: inline;
+	float: left;
+	margin-top: -20px;
+}
+
+
+.icon-afastamento{
+    margin-right: 10px;
+    margin-top: 0;
+}
+
+.rodape2{
+    display: relative;
+	height:20px;
+	width:230px;
+	margin-top:-15px;
+    margin-bottom: 60px;	
+    padding: 0;  
+ 
+}
+
+.rodape p{
+    display: relative;
+	margin: 0;
+    padding: 0;
+	width: 190px;  
+ 
+}
+
+
+.afastamento{
+    margin-right: 10px;
+    margin-top: 0;
+}
+
+.social{
+    margin-top: 40px;
+	width: 210px;	
+
+}
